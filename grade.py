@@ -2,7 +2,7 @@ num1=int(input(' Input Nilai Tugas: '))
 num2=int(input(' Input Nilai uts: '))
 num3=int(input(' Input Nilai uas:'))
 
-num=int(num1/100*30)+(num2/100*30)+(num3/100*40)
+num=int((num1/100*30)+(num2/100*30)+(num3/100*40))
 
 print('')
 print('HASIL')
